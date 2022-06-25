@@ -1,0 +1,28 @@
+main {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.card {
+  width: 400px;
+  height: 600px;
+  margin: 0 auto;
+  background-image: linear-gradient(
+    135deg,
+    #f9fdfe 0,
+    #f7f5f5 10%,
+    #f6edec 20%,
+    #f4e4e3 30%,
+    #f1d9da 40%,
+    #eeced2 50%,
+    #eac3cc 60%,
+    #e5b9c7 70%,
+    #e0b0c5 80%,
+    #d9a8c4 90%,
+    #d2a2c4 100%
+  );
+}
+
+img {
+  width: 100%;
+}
